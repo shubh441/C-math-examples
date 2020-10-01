@@ -8,17 +8,17 @@ int main()
     cout<<"Enter a number: ";
     cin>>num;
 
-    cout<<"the square ruoot of "<<num<<" is "<<sqrt(num)<<endl;
+    cout<<"the square root of "<<num<<" is "<<sqrt(num)<<endl;
     cout<<"THe cube root of "<<num<<" is "<<cbrt(num)<<endl;
 
     cout<<"The sine of "<<num<<" is "<<sin(num)<<endl;
     cout<<"The cosine of "<<num<<" Is "<<cos(num)<<endl;
 
     double power{};
-    cout<<"Entre the power of a nummber: ";
+    cout<<"Entre the power of a number: ";
     cin>>power;
 
-    cout<<"the powre of "<<num<<" is "<<pow(num,power)<<endl;
+    cout<<"the power of "<<num<<" is "<<pow(num,power)<<endl;
 
 
 }
